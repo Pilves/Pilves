@@ -142,10 +142,12 @@ Loading Developer Skills...
 
 > "I can't be captured, only experienced" - Patric
 
-![Snake animation](https://github.com/Pilves/Pilves/blob/output/github-contribution-grid-snake.svg)
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pilves/Pilves/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pilves/Pilves/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pilves/Pilves/output/github-contribution-grid-snake.svg">
+</picture>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Pilves/Pilves/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-</div>
 
 <!-- Easter Egg: Look at the source to find this! 🎮 -->
