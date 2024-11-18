@@ -1,88 +1,151 @@
-# console.log('Hello World!') 👾
+# console.log('What's up buttercup!') 👾
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&random=false&width=435&lines=Debugging+the+Matrix...;Full+Stack+Developer+in+Progress;Code+%2F%2F+Eat+%2F%2F+Sleep+%2F%2F+Repeat;Crafting+Digital+Dreams+in+Estonia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1337&pause=420&color=0FFFE3&center=true&vCenter=true&width=700&lines=Finding+Life%27s+Purpose...;Full+Stack+Developer+in+Progress;Code+%2F%2F+Eat+%2F%2F+Sleep+%2F%2F+Repeat;Crafting+Digital+Dreams+in+Estonia;Running+Hyprland+on+Arch+Like+a+Boss" alt="Typing SVG" />
 </div>
 
-## $ whoami 
+## 👨‍💻 `whoami`
 
-```js
-const developer = {
+```typescript
+interface Developer extends Human {
+  name: string;
+  location: string;
+  currentStatus: string;
+  tech: TechStack;
+  lifestyle: string[];
+  os: string;
+}
+
+const patric: Developer = {
   name: 'Patric',
   location: 'Tallinn, Estonia',
-  currentStatus: 'Studying at Kood/Jõhvi',
-  focus: 'Full Stack Development',
-  currentQuest: 'Mastering JavaScript',
-  favoriteError: 'undefined is not a function',
-  motto: 'Any sufficiently advanced bug is indistinguishable from a feature'
-};
-```
-
-## ⚡ Tech Arsenal
-
-<div align="center">
-  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![VSCode](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-
-</div>
-
-## 📊 Stats.exe
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pilves&show_icons=true&theme=cyberpunk&include_all_commits=true&count_private=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pilves&theme=cyberpunk" alt="GitHub Streak Stats"/>
-</div>
-
-## 🎯 Current Side Quests
-
-```js
-const roadmap = {
-  currentLevel: 'JavaScript Module',
-  nextLevels: [
-    'Advanced DOM Manipulation',
-    'Async JavaScript',
-    'React.js',
-    'Node.js'
+  currentStatus: 'Crafting code @ Kood/Jõhvi',
+  tech: {
+    languages: ['JavaScript', 'Go', 'Java', 'HTML', 'CSS'],
+    frameworks: ['React', 'Node.js', 'Spring Boot'],
+    tools: ['Docker', 'Git', 'VSCode'],
+    databases: ['MongoDB', 'PostgreSQL', 'Firebase'],
+    currentlyLearning: ['JavaScript', 'Go'],
+    interestedIn: ['Rust', 'WebAssembly', 'Kubernetes']
+  },
+  lifestyle: [
+    'Bouldering enthusiast 🧗‍♂️',
+    'Specialty coffee connoisseur ☕',
+    'Table tennis champion 🏓',
+    'Gaming warrior 🎮'
   ],
-  status: 'Loading...'
+  os: 'Hyprland on Arch BTW 🐧'
 };
 ```
 
-## 🌐 Digital Footprint
-
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Pilves&color=00ff00&style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
+## 🎯 Current Quest Progress
 
 ```ascii
-     /\__/\  
-    /`    '\
-  === 0  0 ===
-    \  --  /    - Meow! I debug code!
-   /        \
-  /          \
- |            |
-  \  ||  ||  /
-   \_oo__oo_/#######o
+Loading Developer Skills...
+█████████████████░░░░░ 78%
+
+⚔️ Current Raid: JavaScript Module
+🎯 Next Boss Fight: Advanced DOM Manipulation
+🏰 Final Dungeon: Full Stack Mastery
 ```
 
 </div>
 
-<!-- ASCII art because we're old school cool -->
+## 📊 Battle Statistics
 
-> "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pilves&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pilves&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+## 🏆 Achievement Unlocked
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pilves&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
+</div>
+
+## ⚡ Tech Power-Ups
+
+<div align="center">
+
+### 🚀 Languages of Power
+![JavaScript](https://img.shields.io/badge/JavaScript-%F0%9F%94%A5-black?style=for-the-badge&logo=javascript)
+![Go](https://img.shields.io/badge/Go-%F0%9F%8F%83-black?style=for-the-badge&logo=go)
+![Java](https://img.shields.io/badge/Java-%E2%98%95-black?style=for-the-badge&logo=java)
+![HTML5](https://img.shields.io/badge/HTML5-%F0%9F%8C%9F-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-%F0%9F%8E%A8-black?style=for-the-badge&logo=css3)
+
+### 🧰 Legendary Equipment
+![React](https://img.shields.io/badge/React-%E2%9A%9B%EF%B8%8F-black?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-%F0%9F%9F%A2-black?style=for-the-badge&logo=node.js)
+![Docker](https://img.shields.io/badge/Docker-%F0%9F%90%B3-black?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-%F0%9F%93%9A-black?style=for-the-badge&logo=git)
+
+### 🛡️ Daily Drivers
+![VSCode](https://img.shields.io/badge/VSCode-%E2%9A%94%EF%B8%8F-black?style=for-the-badge&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/Linux-%F0%9F%90%A7-black?style=for-the-badge&logo=linux)
+![Hyprland](https://img.shields.io/badge/Hyprland-%F0%9F%8C%80-black?style=for-the-badge&logo=arch-linux)
+
+</div>
+
+## 🌟 Special Moves
+
+```css
+.arch-linux-pride {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: linear-gradient(45deg, #1793D1, #333333);
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px 0;
+}
+```
+
+<div align="center">
+  <img src="https://img.shields.io/badge/OS-Hyprland%20on%20Arch%20Linux-blueviolet?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Hyprland on Arch"/>
+  
+  **"I use Arch BTW" - But with style** 😎
+</div>
+
+## 🎮 Side Quests & Achievements
+
+```ascii
+🧗‍♂️ Bouldering: Level 7 | Progress [███████░░░] 70%
+☕ Coffee Brewing: Level 9 | Progress [█████████░] 90%
+🏓 Table Tennis: Level 6 | Progress [██████░░░░] 60%
+🎮 Gaming: Level 8 | Progress [████████░░] 80%
+```
+
+<div align="center">
+
+## 🌐 Connection Status
+
+![Profile Views](https://komarev.com/ghpvc/?username=Pilves&style=for-the-badge&color=blueviolet)
+
+```ascii
+        .--.          
+       |o_o |         
+       |:_/ |         
+      //   \ \        
+     (|     | )       
+    /'\_   _/`\      
+    \___)=(___/      
+
+   "What would Linus do?"
+```
+
+
+</div>
+
+> "I can't be captured, only experienced" - Patric
 
 ![Snake animation](https://github.com/Pilves/Pilves/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pilves/Pilves/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+</div>
+
+<!-- Easter Egg: Look at the source to find this! 🎮 -->
