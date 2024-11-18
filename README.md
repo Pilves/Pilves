@@ -142,7 +142,7 @@ Loading Developer Skills...
 
 > "I can't be captured, only experienced" - Patric
 
-<!-- Snake animation -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pilves/Pilves/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pilves/Pilves/output/github-contribution-grid-snake.svg">
@@ -150,4 +150,4 @@ Loading Developer Skills...
 </picture>
 
 
-<!-- Easter Egg: Look at the source to find this! 🎮 -->
+<!-- Why are you looking at the source code?!?!?!?!?? 🎮 -->
