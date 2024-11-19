@@ -110,7 +110,7 @@ const patric: Developer = {
         }
 ```
 
-<img src="https://img.shields.io/badge/OS-Hyprland%20on%20Arch%20Linux-blueviolet?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Hyprland on Arch"/>
+<img src="https://img.shields.io/badge/OS-Hyprland%20on%20Arch%20Linux-f0e68c?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Hyprland on Arch"/>
 
 **"Architecting Excellence with a Custom Linux Environment"** 😎
 
