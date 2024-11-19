@@ -56,14 +56,14 @@ const patric: Developer = {
 
 ## 📈 Development Focus & Progress
 ```ascii
-                    ━━━ Technical Proficiency Status ━━━
-                      ■■■■■■■■■■■■■■■■□□□□□□ 78%
-                    ┌─ Current Focus ─┐
-                    │ Advanced JavaScript Modules
-                    ┌─ Next Milestone ─┐
-                    │ DOM Architecture & Performance
-                    ┌─ Strategic Goal ─┐
-                    │ Full Stack Development Mastery
+        ━━━ Technical Proficiency Status ━━━
+          ■■■■■■■■■■■■■■■■□□□□□□ 78%
+        ┌─ Current Focus ─┐
+        │ Advanced JavaScript Modules
+        ┌─ Next Milestone ─┐
+        │ DOM Architecture & Performance
+        ┌─ Strategic Goal ─┐
+        │ Full Stack Development Mastery
 ```
 
 ## 📊 Performance Analytics
@@ -89,8 +89,7 @@ const patric: Developer = {
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-Primary-black?style=for-the-badge&logo=intellij-idea)
 ![WebStorm](https://img.shields.io/badge/WebStorm-Primary-black?style=for-the-badge&logo=webstorm)
 ![GoLand](https://img.shields.io/badge/GoLand-Primary-black?style=for-the-badge&logo=goland)
-![Linux](https://img.shields.io/badge/Linux-Advanced-black?style=for-the-badge&logo=linux)
-![Hyprland](https://img.shields.io/badge/Hyprland-Customized-black?style=for-the-badge&logo=arch-linux)
+
 
 ## 🖥️ Development Environment Highlights
 ```css
@@ -140,7 +139,7 @@ const patric: Developer = {
                 /'\_   _/`\      
                 \___)=(___/      
 
-               "What would Linus do?"
+        "What would Linus do?"
 ```
 
 > "I can't be captured, only experienced" - Patric
