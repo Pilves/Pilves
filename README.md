@@ -61,6 +61,7 @@ Technical Proficiency Status:
 🔹 Current Focus: Advanced JavaScript Modules
 🔹 Next Milestone: DOM Architecture & Performance
 🔹 Strategic Goal: Full Stack Development Mastery
+```
 
 </div>
 
