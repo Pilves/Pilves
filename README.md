@@ -118,7 +118,7 @@ const patric: Developer = {
 ![Judge](https://img.shields.io/badge/Competition_Judge-National_Level-blue?style=for-the-badge)
 
 ### 🎯 Current Focus
-![Education](https://img.shields.io/badge/Full_Stack_Development-Kood/Jõhvi-1793D1?style=for-the-badge)(https://kood.tech)
+[![Education](https://img.shields.io/badge/Full_Stack_Development-Kood/Jõhvi-1793D1?style=for-the-badge)](https://kood.tech/)
 [![Innovation](https://img.shields.io/badge/Chaidla-Pioneering_Sustainable_Products-2ea44f?style=for-the-badge)](https://chaidla.ee)
 ![Expertise](https://img.shields.io/badge/Specialty_Coffee-Industry_Leader-brown?style=for-the-badge)
 
