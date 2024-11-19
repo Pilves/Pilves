@@ -74,21 +74,21 @@ const patric: Developer = {
 ## 🛠️ Technical Stack
 
 ### 💻 Primary Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-black?style=for-the-badge&logo=javascript)
-![Go](https://img.shields.io/badge/Go-Proficient-black?style=for-the-badge&logo=go)
-![Java](https://img.shields.io/badge/Java-Advanced-black?style=for-the-badge&logo=java)
-![HTML5](https://img.shields.io/badge/HTML5-Skilled-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-Skilled-black?style=for-the-badge&logo=css3)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Expert-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Go](https://img.shields.io/badge/Go-Proficient-black?style=for-the-badge&logo=go)](https://go.dev/)
+[![Java](https://img.shields.io/badge/Java-Advanced-black?style=for-the-badge&logo=java)](https://www.java.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-Skilled-black?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-Skilled-black?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### ⚙️ Core Technologies
-![React](https://img.shields.io/badge/React-Advanced-black?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-Proficient-black?style=for-the-badge&logo=node.js)
-![Git](https://img.shields.io/badge/Git-Advanced-black?style=for-the-badge&logo=git)
+[![React](https://img.shields.io/badge/React-Advanced-black?style=for-the-badge&logo=react)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-Proficient-black?style=for-the-badge&logo=node.js)](https://nodejs.org/)
+[![Git](https://img.shields.io/badge/Git-Advanced-black?style=for-the-badge&logo=git)](https://git-scm.com/)
 
 ### 🖥️ Development Environment
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-Primary-black?style=for-the-badge&logo=intellij-idea)
-![WebStorm](https://img.shields.io/badge/WebStorm-Primary-black?style=for-the-badge&logo=webstorm)
-![GoLand](https://img.shields.io/badge/GoLand-Primary-black?style=for-the-badge&logo=goland)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-Primary-black?style=for-the-badge&logo=intellij-idea)](https://www.jetbrains.com/idea/)
+[![WebStorm](https://img.shields.io/badge/WebStorm-Primary-black?style=for-the-badge&logo=webstorm)](https://www.jetbrains.com/webstorm/)
+[![GoLand](https://img.shields.io/badge/GoLand-Primary-black?style=for-the-badge&logo=goland)](https://www.jetbrains.com/go/)
 
 
 ## 🖥️ Development Environment Highlights
@@ -118,8 +118,8 @@ const patric: Developer = {
 ![Judge](https://img.shields.io/badge/Competition_Judge-National_Level-blue?style=for-the-badge)
 
 ### 🎯 Current Focus
-![Education](https://img.shields.io/badge/Full_Stack_Development-Kood/Jõhvi-1793D1?style=for-the-badge)
-![Innovation](https://img.shields.io/badge/Chaidla-Pioneering_Sustainable_Products-2ea44f?style=for-the-badge)
+![Education](https://img.shields.io/badge/Full_Stack_Development-Kood/Jõhvi-1793D1?style=for-the-badge)(https://kood.tech)
+[![Innovation](https://img.shields.io/badge/Chaidla-Pioneering_Sustainable_Products-2ea44f?style=for-the-badge)](https://chaidla.ee)
 ![Expertise](https://img.shields.io/badge/Specialty_Coffee-Industry_Leader-brown?style=for-the-badge)
 
 ### 💡 Notable Innovations
