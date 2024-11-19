@@ -56,11 +56,14 @@ const patric: Developer = {
 
 ## 📈 Development Focus & Progress
 ```ascii
-Technical Proficiency Status:
-████████████████░░░░░░ 78%
-🔹 Current Focus: Advanced JavaScript Modules
-🔹 Next Milestone: DOM Architecture & Performance
-🔹 Strategic Goal: Full Stack Development Mastery
+                ━━━ Technical Proficiency Status ━━━
+                    ████████████████░░░░░░ 78%
+                    ┌─ Current Focus ─┐
+                    │ Advanced JavaScript Modules
+                    ┌─ Next Milestone ─┐
+                    │ DOM Architecture & Performance
+                    ┌─ Strategic Goal ─┐
+                    │ Full Stack Development Mastery
 ```
 
 </div>
