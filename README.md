@@ -132,7 +132,7 @@ const patric: Developer = {
 - Led multiple national-level coffee competitions and events
 
 ## 🌐 Connection Status
-![Profile Views](https://komarev.com/ghpvc/?username=Pilves&style=for-the-badge&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Pilves&style=for-the-badge&color=5d4037)
 
 ```ascii
                     .--.          
