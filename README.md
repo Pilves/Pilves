@@ -57,7 +57,7 @@ const patric: Developer = {
 ## 📈 Development Focus & Progress
 ```ascii
         ━━━ Technical Proficiency Status ━━━
-          ■■■■■■■■■■■■■■■■□□□□□□ 78%
+          ■■■■■■■■■■■■■□□□□□□□□□□□□□□□□□□ 31% 
         ┌─ Current Focus ─┐
         │ Advanced JavaScript Modules
         ┌─ Next Milestone ─┐
