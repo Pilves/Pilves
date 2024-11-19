@@ -74,16 +74,16 @@ const patric: Developer = {
 ## 🛠️ Technical Stack
 
 ### 💻 Primary Languages
-[![JavaScript](https://img.shields.io/badge/JavaScript-Expert-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Go](https://img.shields.io/badge/Go-Proficient-black?style=for-the-badge&logo=go)](https://go.dev/)
-[![Java](https://img.shields.io/badge/Java-Advanced-black?style=for-the-badge&logo=java)](https://www.java.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-Skilled-black?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-Skilled-black?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Junior-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Go](https://img.shields.io/badge/Go-Intern-black?style=for-the-badge&logo=go)](https://go.dev/)
+[![Java](https://img.shields.io/badge/Java-Intern-black?style=for-the-badge&logo=java)](https://www.java.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-Intermediate-black?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-Intermediate-black?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### ⚙️ Core Technologies
-[![React](https://img.shields.io/badge/React-Advanced-black?style=for-the-badge&logo=react)](https://react.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-Proficient-black?style=for-the-badge&logo=node.js)](https://nodejs.org/)
-[![Git](https://img.shields.io/badge/Git-Advanced-black?style=for-the-badge&logo=git)](https://git-scm.com/)
+[![React](https://img.shields.io/badge/React-Intern-black?style=for-the-badge&logo=react)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-Intern-black?style=for-the-badge&logo=node.js)](https://nodejs.org/)
+[![Git](https://img.shields.io/badge/Git-Skilled-black?style=for-the-badge&logo=git)](https://git-scm.com/)
 
 ### 🖥️ Development Environment
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-Primary-black?style=for-the-badge&logo=intellij-idea)](https://www.jetbrains.com/idea/)
