@@ -94,16 +94,20 @@ const patric: Developer = {
 ## 🖥️ Development Environment Highlights
 ```css
 .workspace-configuration {
-  display: flex;
-  justify-content: space-between;
-  flex-direction: column;
-  align-items: center;
-  background: linear-gradient(135deg, #1793D1, #333333);
-  box-shadow: 0 4px 12px rgba(23, 147, 209, 0.2);
-  border-radius: 8px;
-  padding: 1.5rem;
-  margin: 1.5rem 0;
-}
+            display: flex;
+            justify-content: space-between;
+            flex-direction: column;
+            align-items: center;
+            background: linear-gradient(135deg, #5d4037, #1e1e1e);
+            box-shadow: 0 4px 15px rgba(255, 223, 0, 0.2); 
+            border-radius: 12px;
+            padding: 2rem;
+            margin: 1.5rem 0;
+            width: 80%;
+            max-width: 600px;
+            color: #f0e68c;
+            text-align: center;
+        }
 ```
 
 <img src="https://img.shields.io/badge/OS-Hyprland%20on%20Arch%20Linux-blueviolet?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Hyprland on Arch"/>
