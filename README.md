@@ -24,17 +24,17 @@ const patric: Developer = {
     languages: ['JavaScript', 'Go', 'Java', 'HTML', 'CSS'],
     frameworks: ['React', 'Node.js', 'Spring Boot'],
     tools: [
-      'Webstorm', 'IntelliJ', 'Pycharm', 'GoLand',  // IDEs
-      'Git', 'Docker', 'Kubernetes',                // Development & Operations
-      'Claude', 'Chat-GPT',                         // AI Assistants
-      'Financial Management Tools'                   // Business Tools
+      'Webstorm', 'IntelliJ', 'Pycharm', 'GoLand',    // IDEs
+      'Git', 'Docker', 'Kubernetes',                   // Development & Operations
+      'Claude', 'Chat-GPT',                           // AI Assistants
+      'Financial Management Tools'                     // Business Tools
     ],
     databases: ['MongoDB', 'PostgreSQL', 'SQLite', 'SQL'],
     currentlyLearning: ['JavaScript', 'Go', 'System Design'],
     interestedIn: [
-      'Generative AI', 
-      'ML Ops', 
-      'Advanced Full Stack', 
+      'Generative AI',
+      'ML Ops',
+      'Advanced Full Stack',
       'Cybersecurity',
       'Data Engineering & Analysis',
       'DevOps, Cloud & System Administration',
@@ -56,27 +56,22 @@ const patric: Developer = {
 
 ## 📈 Development Focus & Progress
 ```ascii
-        ━━━ Technical Proficiency Status ━━━
-        ████████████████░░░░░░ 78%
-        ┌─ Current Focus ─┐
-        │ Advanced JavaScript Modules
-        ┌─ Next Milestone ─┐
-        │ DOM Architecture & Performance
-        ┌─ Strategic Goal ─┐
-        │ Full Stack Development Mastery
+                    ━━━ Technical Proficiency Status ━━━
+                      ■■■■■■■■■■■■■■■■□□□□□□ 78%
+                    ┌─ Current Focus ─┐
+                    │ Advanced JavaScript Modules
+                    ┌─ Next Milestone ─┐
+                    │ DOM Architecture & Performance
+                    ┌─ Strategic Goal ─┐
+                    │ Full Stack Development Mastery
 ```
-
-</div>
 
 ## 📊 Performance Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pilves&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pilves&layout=compact&langs_count=8&theme=radical"/>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pilves&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pilves&layout=compact&langs_count=8&theme=radical"/>
 
 ## 🛠️ Technical Stack
-<div align="center">
 
 ### 💻 Primary Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-black?style=for-the-badge&logo=javascript)
@@ -96,7 +91,6 @@ const patric: Developer = {
 ![GoLand](https://img.shields.io/badge/GoLand-Primary-black?style=for-the-badge&logo=goland)
 ![Linux](https://img.shields.io/badge/Linux-Advanced-black?style=for-the-badge&logo=linux)
 ![Hyprland](https://img.shields.io/badge/Hyprland-Customized-black?style=for-the-badge&logo=arch-linux)
-</div>
 
 ## 🖥️ Development Environment Highlights
 ```css
@@ -113,15 +107,11 @@ const patric: Developer = {
 }
 ```
 
-<div align="center">
-  <img src="https://img.shields.io/badge/OS-Hyprland%20on%20Arch%20Linux-blueviolet?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Hyprland on Arch"/>
-  
-  **"Architecting Excellence with a Custom Linux Environment** 😎
-</div>
+<img src="https://img.shields.io/badge/OS-Hyprland%20on%20Arch%20Linux-blueviolet?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Hyprland on Arch"/>
+
+**"Architecting Excellence with a Custom Linux Environment"** 😎
 
 ## 🏆 Professional Distinctions & Current Endeavors
-
-<div align="center">
 
 ### 🌟 Championship Achievements
 ![Competition](https://img.shields.io/badge/Stockholm_Specialty_Coffee_Festival-1st_Place-gold?style=for-the-badge)
@@ -137,30 +127,23 @@ const patric: Developer = {
 - Pioneered Estonia's first locally produced honey chai blend
 - Established successful sustainable cafe operations
 - Led multiple national-level coffee competitions and events
-</div>
 
 ## 🌐 Connection Status
-<div align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=Pilves&style=for-the-badge&color=blueviolet)
-</div>
 
 ```ascii
-        .--.          
-       |o_o |         
-       |:_/ |         
-      //   \ \        
-     (|     | )       
-    /'\_   _/`\      
-    \___)=(___/      
+                    .--.          
+                   |o_o |         
+                   |:_/ |         
+                  //   \ \        
+                 (|     | )       
+                /'\_   _/`\      
+                \___)=(___/      
 
-   "What would Linus do?"
+               "What would Linus do?"
 ```
 
-
-</div>
-
 > "I can't be captured, only experienced" - Patric
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pilves/Pilves/output/github-contribution-grid-snake-dark.svg">
@@ -168,5 +151,6 @@ const patric: Developer = {
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pilves/Pilves/output/github-contribution-grid-snake.svg">
 </picture>
 
+</div>
 
 <!-- Why are you looking at the source code?!?!?!?!?? 🎮 -->
