@@ -138,10 +138,11 @@ const patric: Developer = {
 - Established successful sustainable cafe operations
 - Led multiple national-level coffee competitions and events
 </div>
-
+<div align="center">
 ## 🌐 Connection Status
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Pilves&style=for-the-badge&color=blueviolet)
+</div>
 
 ```ascii
         .--.          
