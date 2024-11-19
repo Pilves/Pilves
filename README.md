@@ -1,7 +1,7 @@
-# console.log('What's up buttercup!') 👾
+# console.log('What's up Buttercup!') 👾
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=1337&pause=420&color=0FFFE3&center=true&vCenter=true&width=960&lines=Searching+for+Life's+Purpose...;Full+Stack+Developer+in+Progress;Crafting+Digital+Dreams+in+Estonia;Code+is+like+a+joke%3A+if+you+have+to+explain+it%2C+it's+bad;Reading+code+is+an+art%2C+writing+it+is+just+the+start;Make+it+work%2C+then+make+it+reusable" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=7331&pause=420&color=0FFFE3&center=true&vCenter=true&width=960&lines=Searching+for+Life's+Purpose...;Full+Stack+Developer+in+Progress;Crafting+Digital+Dreams+in+Estonia;Code+is+like+a+joke%3A+if+you+have+to+explain+it%2C+it's+bad;Reading+code+is+an+art%2C+writing+it+is+just+the+start;Make+it+work%2C+then+make+it+reusable" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 `whoami`
