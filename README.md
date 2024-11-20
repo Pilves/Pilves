@@ -91,6 +91,11 @@ const patric: Developer = {
 [![GoLand](https://img.shields.io/badge/GoLand-Primary-black?style=for-the-badge&logo=goland)](https://www.jetbrains.com/go/)
 
 
+## My Dev Pet 🐾
+<div align="center">
+  <img src="output/pet.svg" width="300" height="300" alt="dev pet">
+</div>
+
 ## 🖥️ Development Environment Highlights
 ```css
 .workspace-configuration {
