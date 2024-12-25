@@ -90,26 +90,6 @@ const patric: Developer = {
 [![WebStorm](https://img.shields.io/badge/WebStorm-Primary-black?style=for-the-badge&logo=webstorm)](https://www.jetbrains.com/webstorm/)
 [![GoLand](https://img.shields.io/badge/GoLand-Primary-black?style=for-the-badge&logo=goland)](https://www.jetbrains.com/go/)
 
-
-## 🖥️ Development Environment Highlights
-```css
-.workspace-configuration {
-            display: flex;
-            justify-content: space-between;
-            flex-direction: column;
-            align-items: center;
-            background: linear-gradient(135deg, #5d4037, #1e1e1e);
-            box-shadow: 0 4px 15px rgba(255, 223, 0, 0.2); 
-            border-radius: 12px;
-            padding: 2rem;
-            margin: 1.5rem 0;
-            width: 80%;
-            max-width: 600px;
-            color: #f0e68c;
-            text-align: center;
-        }
-```
-
 <img src="https://img.shields.io/badge/OS-Hyprland%20on%20Arch%20Linux-f0e68c?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Hyprland on Arch"/>
 
 **"Architecting Excellence with a Custom Linux Environment"** 😎
