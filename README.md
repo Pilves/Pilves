@@ -66,11 +66,6 @@ const patric: Developer = {
         │ Full Stack Development Mastery
 ```
 
-## 📊 Performance Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pilves&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pilves&layout=compact&langs_count=8&theme=radical"/>
-
 ## 🛠️ Technical Stack
 
 ### 💻 Primary Languages
@@ -96,11 +91,6 @@ const patric: Developer = {
 
 ## 🏆 Professional Distinctions & Current Endeavors
 
-### 🌟 Championship Achievements
-![Competition](https://img.shields.io/badge/Stockholm_Specialty_Coffee_Festival-1st_Place-gold?style=for-the-badge)
-![National](https://img.shields.io/badge/Estonian_Latte_Art-Multiple_Champion-gold?style=for-the-badge)
-![Judge](https://img.shields.io/badge/Competition_Judge-National_Level-blue?style=for-the-badge)
-
 ### 🎯 Current Focus
 [![Education](https://img.shields.io/badge/Full_Stack_Development-Kood/Jõhvi-1793D1?style=for-the-badge)](https://kood.tech/)
 [![Innovation](https://img.shields.io/badge/Chaidla-Pioneering_Sustainable_Products-2ea44f?style=for-the-badge)](https://chaidla.ee)
@@ -110,9 +100,6 @@ const patric: Developer = {
 - Pioneered Estonia's first locally produced honey chai blend
 - Established successful sustainable cafe operations
 - Led multiple national-level coffee competitions and events
-
-## 🌐 Connection Status
-![Profile Views](https://komarev.com/ghpvc/?username=Pilves&style=for-the-badge&color=5d4037)
 
 ```ascii
                     .--.          
@@ -127,12 +114,6 @@ const patric: Developer = {
 ```
 
 > "I can't be captured, only experienced" - Patric
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pilves/Pilves/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pilves/Pilves/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pilves/Pilves/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
